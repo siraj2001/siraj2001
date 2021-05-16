@@ -1,7 +1,6 @@
 - 👋 Hi, I’m sirajuddin
 - 👀 I’m interested in website development 
 - 🌱 I’m currently learning javascript,html,css and python.
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me by @siraj.kamaluddin@gmail.com
 
 <!---
